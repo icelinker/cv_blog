@@ -4,105 +4,105 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>./</loc>
-<lastmod>2018-01-02T20:08:31-00:00</lastmod>
+<loc>icelinker.github.io/cv_blog/</loc>
+<lastmod>2018-01-02T20:18:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./archives.html</loc>
-<lastmod>2018-01-02T20:08:31-00:00</lastmod>
+<loc>icelinker.github.io/cv_blog/archives.html</loc>
+<lastmod>2018-01-02T20:18:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tags.html</loc>
-<lastmod>2018-01-02T20:08:31-00:00</lastmod>
+<loc>icelinker.github.io/cv_blog/tags.html</loc>
+<lastmod>2018-01-02T20:18:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./pages/about/</loc>
+<loc>icelinker.github.io/cv_blog/pages/about/</loc>
 <lastmod>2015-04-03T13:22:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2015/11/featured-images-for-the-detail-view.html</loc>
+<loc>icelinker.github.io/cv_blog/2015/11/featured-images-for-the-detail-view.html</loc>
 <lastmod>2015-11-20T21:54:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2015/11/featured-color-header-view.html</loc>
+<loc>icelinker.github.io/cv_blog/2015/11/featured-color-header-view.html</loc>
 <lastmod>2015-11-10T21:54:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2015/11/headlines-blockquotes-images.html</loc>
+<loc>icelinker.github.io/cv_blog/2015/11/headlines-blockquotes-images.html</loc>
 <lastmod>2015-11-01T01:25:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2015/11/lists-and-tables.html</loc>
+<loc>icelinker.github.io/cv_blog/2015/11/lists-and-tables.html</loc>
 <lastmod>2015-11-01T01:12:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2015/11/code-blocks.html</loc>
+<loc>icelinker.github.io/cv_blog/2015/11/code-blocks.html</loc>
 <lastmod>2015-11-01T00:45:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./2015/11/welcome-to-ghost.html</loc>
+<loc>icelinker.github.io/cv_blog/2015/11/welcome-to-ghost.html</loc>
 <lastmod>2015-11-01T00:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./category/misc</loc>
+<loc>icelinker.github.io/cv_blog/category/misc</loc>
 <lastmod>2015-11-20T21:54:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/general</loc>
+<loc>icelinker.github.io/cv_blog/tag/general</loc>
 <lastmod>2015-11-20T21:54:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/cupcake</loc>
+<loc>icelinker.github.io/cv_blog/tag/cupcake</loc>
 <lastmod>2015-11-01T01:25:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./tag/getting-started</loc>
+<loc>icelinker.github.io/cv_blog/tag/getting-started</loc>
 <lastmod>2015-11-01T00:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>./author/zutrinken</loc>
+<loc>icelinker.github.io/cv_blog/author/zutrinken</loc>
 <lastmod>2015-11-20T21:54:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
