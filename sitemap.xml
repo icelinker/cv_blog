@@ -5,21 +5,45 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
+<<<<<<< HEAD
 <lastmod>2018-01-04T13:02:28-00:00</lastmod>
+=======
+<<<<<<< HEAD
+<lastmod>2018-01-04T12:58:53-00:00</lastmod>
+=======
+<lastmod>2018-01-04T12:54:30-00:00</lastmod>
+>>>>>>> 7ed0ee64018498092514b303c54b953582026307
+>>>>>>> 0c10da81f640729961943abab80bd3763ed929a7
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
+<<<<<<< HEAD
 <lastmod>2018-01-04T13:02:28-00:00</lastmod>
+=======
+<<<<<<< HEAD
+<lastmod>2018-01-04T12:58:53-00:00</lastmod>
+=======
+<lastmod>2018-01-04T12:54:30-00:00</lastmod>
+>>>>>>> 7ed0ee64018498092514b303c54b953582026307
+>>>>>>> 0c10da81f640729961943abab80bd3763ed929a7
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
+<<<<<<< HEAD
 <lastmod>2018-01-04T13:02:28-00:00</lastmod>
+=======
+<<<<<<< HEAD
+<lastmod>2018-01-04T12:58:53-00:00</lastmod>
+=======
+<lastmod>2018-01-04T12:54:30-00:00</lastmod>
+>>>>>>> 7ed0ee64018498092514b303c54b953582026307
+>>>>>>> 0c10da81f640729961943abab80bd3763ed929a7
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
