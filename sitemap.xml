@@ -4,84 +4,84 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>icelinker.github.io/cv_blog/</loc>
-<lastmod>2018-01-07T18:20:26-00:00</lastmod>
+<loc>www.icelinker.xyz/</loc>
+<lastmod>2018-01-07T23:48:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/archives.html</loc>
-<lastmod>2018-01-07T18:20:26-00:00</lastmod>
+<loc>www.icelinker.xyz/archives.html</loc>
+<lastmod>2018-01-07T23:48:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/tags.html</loc>
-<lastmod>2018-01-07T18:20:26-00:00</lastmod>
+<loc>www.icelinker.xyz/tags.html</loc>
+<lastmod>2018-01-07T23:48:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/pages/关于/</loc>
+<loc>www.icelinker.xyz/pages/关于/</loc>
 <lastmod>2015-04-03T13:22:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/pages/SimcirJs/</loc>
+<loc>www.icelinker.xyz/pages/SimcirJs/</loc>
 <lastmod>2010-12-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/2018/01/SimcirJs.html</loc>
+<loc>www.icelinker.xyz/2018/01/SimcirJs.html</loc>
 <lastmod>2018-01-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/2017/12/my-super-post.html</loc>
+<loc>www.icelinker.xyz/2017/12/my-super-post.html</loc>
 <lastmod>2017-12-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/category/python</loc>
+<loc>www.icelinker.xyz/category/python</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/tag/pelican</loc>
+<loc>www.icelinker.xyz/tag/pelican</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/tag/publishing</loc>
+<loc>www.icelinker.xyz/tag/publishing</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/author/alexis-metaireau</loc>
+<loc>www.icelinker.xyz/author/alexis-metaireau</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>icelinker.github.io/cv_blog/author/conan-doyle</loc>
+<loc>www.icelinker.xyz/author/conan-doyle</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
