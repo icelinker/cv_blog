@@ -5,190 +5,84 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<<<<<<< HEAD
-<lastmod>2018-01-04T13:08:37-00:00</lastmod>
-=======
-<<<<<<< HEAD
-<lastmod>2018-01-04T13:02:28-00:00</lastmod>
-=======
-<<<<<<< HEAD
-<lastmod>2018-01-04T12:58:53-00:00</lastmod>
-=======
-<lastmod>2018-01-04T12:54:30-00:00</lastmod>
->>>>>>> 7ed0ee64018498092514b303c54b953582026307
->>>>>>> 0c10da81f640729961943abab80bd3763ed929a7
->>>>>>> 9508699de9dba3b691d8ba7a026552452d83d9d0
+<lastmod>2018-01-07T17:52:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<<<<<<< HEAD
-<lastmod>2018-01-04T13:08:37-00:00</lastmod>
-=======
-<<<<<<< HEAD
-<lastmod>2018-01-04T13:02:28-00:00</lastmod>
-=======
-<<<<<<< HEAD
-<lastmod>2018-01-04T12:58:53-00:00</lastmod>
-=======
-<lastmod>2018-01-04T12:54:30-00:00</lastmod>
->>>>>>> 7ed0ee64018498092514b303c54b953582026307
->>>>>>> 0c10da81f640729961943abab80bd3763ed929a7
->>>>>>> 9508699de9dba3b691d8ba7a026552452d83d9d0
+<lastmod>2018-01-07T17:52:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<<<<<<< HEAD
-<lastmod>2018-01-04T13:08:37-00:00</lastmod>
-=======
-<<<<<<< HEAD
-<lastmod>2018-01-04T13:02:28-00:00</lastmod>
-=======
-<<<<<<< HEAD
-<lastmod>2018-01-04T12:58:53-00:00</lastmod>
-=======
-<lastmod>2018-01-04T12:54:30-00:00</lastmod>
->>>>>>> 7ed0ee64018498092514b303c54b953582026307
->>>>>>> 0c10da81f640729961943abab80bd3763ed929a7
->>>>>>> 9508699de9dba3b691d8ba7a026552452d83d9d0
+<lastmod>2018-01-07T17:52:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/about/</loc>
+<loc>/pages/关于/</loc>
 <lastmod>2015-04-03T13:22:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/pages/my-super-post/</loc>
+<loc>/pages/SimcirJs/</loc>
 <lastmod>2010-12-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2015/11/featured-images-for-the-detail-view.html</loc>
-<lastmod>2015-11-20T21:54:00+08:00</lastmod>
+<loc>/2018/01/SimcirJs.html</loc>
+<lastmod>2018-01-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>/2015/11/featured-color-header-view.html</loc>
-<lastmod>2015-11-10T21:54:00+08:00</lastmod>
+<loc>/2017/12/my-super-post.html</loc>
+<lastmod>2017-12-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/2015/11/headlines-blockquotes-images.html</loc>
-<lastmod>2015-11-01T01:25:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/2015/11/lists-and-tables.html</loc>
-<lastmod>2015-11-01T01:12:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/2015/11/code-blocks.html</loc>
-<lastmod>2015-11-01T00:45:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/2015/11/welcome-to-ghost.html</loc>
-<lastmod>2015-11-01T00:30:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/2010/12/my-super-post.html</loc>
-<lastmod>2010-12-05T19:30:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/category/misc</loc>
-<lastmod>2015-11-20T21:54:00+08:06</lastmod>
-<changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/category/python</loc>
-<lastmod>2010-12-05T19:30:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/general</loc>
-<lastmod>2015-11-20T21:54:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/cupcake</loc>
-<lastmod>2015-11-01T01:25:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/tag/getting-started</loc>
-<lastmod>2015-11-01T00:30:00+08:06</lastmod>
+<lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/pelican</loc>
-<lastmod>2010-12-05T19:30:00+08:06</lastmod>
+<lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/publishing</loc>
-<lastmod>2010-12-05T19:30:00+08:06</lastmod>
+<lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/alexis-metaireau</loc>
-<lastmod>2010-12-05T19:30:00+08:06</lastmod>
+<lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/conan-doyle</loc>
-<lastmod>2010-12-05T19:30:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>/author/zutrinken</loc>
-<lastmod>2015-11-20T21:54:00+08:06</lastmod>
+<lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
