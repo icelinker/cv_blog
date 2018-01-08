@@ -4,84 +4,84 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>www.icelinker.xyz/</loc>
-<lastmod>2018-01-07T23:58:30-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2018-01-07T23:59:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/archives.html</loc>
-<lastmod>2018-01-07T23:58:30-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2018-01-07T23:59:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/tags.html</loc>
-<lastmod>2018-01-07T23:58:30-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2018-01-07T23:59:51-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/pages/关于/</loc>
+<loc>/pages/关于/</loc>
 <lastmod>2015-04-03T13:22:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/pages/SimcirJs/</loc>
+<loc>/pages/SimcirJs/</loc>
 <lastmod>2010-12-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/2018/01/SimcirJs.html</loc>
+<loc>/2018/01/SimcirJs.html</loc>
 <lastmod>2018-01-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/2017/12/my-super-post.html</loc>
+<loc>/2017/12/my-super-post.html</loc>
 <lastmod>2017-12-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/category/python</loc>
+<loc>/category/python</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/tag/pelican</loc>
+<loc>/tag/pelican</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/tag/publishing</loc>
+<loc>/tag/publishing</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/author/alexis-metaireau</loc>
+<loc>/author/alexis-metaireau</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>www.icelinker.xyz/author/conan-doyle</loc>
+<loc>/author/conan-doyle</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
