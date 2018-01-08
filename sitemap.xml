@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2018-01-08T00:10:16-00:00</lastmod>
+<lastmod>2018-01-08T00:51:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2018-01-08T00:10:16-00:00</lastmod>
+<lastmod>2018-01-08T00:51:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2018-01-08T00:10:16-00:00</lastmod>
+<lastmod>2018-01-08T00:51:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -27,6 +27,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/pages/关于/</loc>
 <lastmod>2015-04-03T13:22:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/pages/cv/</loc>
+<lastmod>2018-01-08T00:50:19+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -75,13 +82,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/alexis-metaireau</loc>
-<lastmod>2018-01-05T19:30:00+08:06</lastmod>
+<lastmod>2017-12-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/author/conan-doyle</loc>
+<lastmod>2017-12-05T19:30:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/author/yang-linghui</loc>
 <lastmod>2018-01-05T19:30:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
