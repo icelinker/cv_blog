@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2018-01-08T13:11:32-00:00</lastmod>
+<lastmod>2018-01-08T13:21:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2018-01-08T13:11:32-00:00</lastmod>
+<lastmod>2018-01-08T13:21:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2018-01-08T13:11:32-00:00</lastmod>
+<lastmod>2018-01-08T13:21:17-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/pages/SimcirJs/</loc>
 <lastmod>2010-12-05T19:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/2018/01/coding comment.html</loc>
+<lastmod>2018-01-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -54,21 +61,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/category/python</loc>
-<lastmod>2018-01-05T19:30:00+08:06</lastmod>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/pelican</loc>
-<lastmod>2018-01-05T19:30:00+08:06</lastmod>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tag/publishing</loc>
-<lastmod>2018-01-05T19:30:00+08:06</lastmod>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -89,7 +96,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/author/yang-linghui</loc>
-<lastmod>2018-01-05T19:30:00+08:06</lastmod>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
