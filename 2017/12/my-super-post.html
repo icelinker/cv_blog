@@ -39,7 +39,8 @@
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
   <![endif]-->
 
-
+    <!-- 添加coding-comment评论 -->
+    <link rel="stylesheet" href="//dn-coding-net-public-file.qbox.me/Coding-Comments/v0.1.0/default.css">
     <link href="/2017/12/my-super-post.html" rel="canonical" />
 
         <meta name="description" content="Short version for index and feeds">
@@ -180,11 +181,6 @@
 
                 </section>
 
-                <!-- UY BEGIN -->
-                <div id="uyan_frame"></div>
-                <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2154395"></script>
-                <!-- UY END -->
-
 
                 <aside class="post-nav">
                     <a class="post-nav-next" href="/2018/01/SimcirJs.html">
@@ -199,8 +195,21 @@
 
             </div>
         </article>
+    <!-- 添加coding-comment评论控件 -->
+        <div id="container"></div>
+        <script type="text/javascript" src="//dn-coding-net-public-file.qbox.me/Coding-Comments/v0.1.0/gitment.min.js"></script>
+        <script>
+            var gitment = new Gitment({
+            owner: 'whusl',
+            repo: 'BlogComments',
+            oauth: {
+                client_id: '3756f64addea5e61b5f50a6180fedc70',
+                client_secret: 'c545c80c6864a4e81cfdd138f80793368c3c9334',
+            },
+            })
+            document.getElementById('container').appendChild(gitment.render())
+        </script>
     </main>
-
       <!-- TODO : Body class -->
     <div id="body-class" style="display: none;" class=""></div>
 
