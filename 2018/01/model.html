@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="chinese (simplified)">
+
+<head>
+      <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+
+  <title>获取飞机的剖面图</title>
+
+
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="referrer" content="origin" />
+  <meta name="generator" content="Pelican" />
+  <link href="/" rel="canonical" />
+
+  <!-- Feed -->
+
+  <link href="/theme/css/style.css" type="text/css" rel="stylesheet" />
+
+  <!-- Code highlight color scheme -->
+      <link href="/theme/css/code_blocks/github.css" rel="stylesheet">
+
+    <!-- CSS specified by the user -->
+
+
+    <link href="/assets/css/myblog.css" type="text/css" rel="stylesheet" />
+
+  <!-- Custom fonts -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+    <!-- 添加coding-comment评论 -->
+    <link rel="stylesheet" href="//dn-coding-net-public-file.qbox.me/Coding-Comments/v0.1.0/default.css">
+    <link href="/2018/01/model.html" rel="canonical" />
+
+        <meta name="description" content="使用sketchup进行建模是获得飞机的剖面图">
+
+        <meta name="author" content="Yang Linghui">
+
+        <meta name="tags" content="model">
+        <meta name="tags" content="simulation">
+
+
+
+
+<!-- Open Graph -->
+<meta property="og:site_name" content="icelinker's home page"/>
+<meta property="og:title" content="获取飞机的剖面图"/>
+<meta property="og:description" content="使用sketchup进行建模是获得飞机的剖面图"/>
+<meta property="og:locale" content="en_US"/>
+<meta property="og:url" content="/2018/01/model.html"/>
+<meta property="og:type" content="article"/>
+<meta property="article:published_time" content="2018-01-08 10:20:00+08:00"/>
+<meta property="article:modified_time" content="2018-01-05 19:30:00+08:00"/>
+<meta property="article:author" content="/author/yang-linghui">
+<meta property="article:section" content="3D"/>
+<meta property="article:tag" content="model"/>
+<meta property="article:tag" content="simulation"/>
+<meta property="og:image" content="/theme/images/post-bg.jpg">
+
+<!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@icelinker_ch">
+    <meta name="twitter:title" content="获取飞机的剖面图">
+    <meta name="twitter:url" content="/2018/01/model.html">
+
+        <meta name="twitter:image:src" content="/theme/images/post-bg.jpg">
+
+      <meta name="twitter:description" content="使用sketchup进行建模是获得飞机的剖面图">
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "name": "获取飞机的剖面图",
+  "headline": "获取飞机的剖面图",
+  "datePublished": "2018-01-08 10:20:00+08:00",
+  "dateModified": "2018-01-05 19:30:00+08:00",
+  "author": {
+    "@type": "Person",
+    "name": "Yang Linghui",
+    "url": "/author/yang-linghui"
+  },
+  "image": "/theme/images/post-bg.jpg",
+  "url": "/2018/01/model.html",
+  "description": "使用sketchup进行建模是获得飞机的剖面图"
+}
+</script>
+</head>
+<!-- TODO : Body class -->
+<body class="home-template">
+
+<nav id="menu">
+  <a class="close-button">Close</a>
+  <div class="nav-wrapper">
+    <p class="nav-label">Menu</p>
+    <ul>
+          <li><a href="https://icelinker.github.io/resume" role="presentation">CV</a></li>
+
+              <li role="presentation"><a href="/pages/关于/">About</a></li>
+              <li role="presentation"><a href="/pages/SimcirJs/">SimcirJs</a></li>
+
+    </ul>
+  </div>
+</nav>
+    <!-- Progressbar -->
+    <div class="progress-container">
+        <span class="progress-bar"></span>
+    </div>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header id="post-header" class="has-cover">
+      <div class="inner">
+        <nav id="navigation">
+            <span id="home-button" class="nav-button">
+                <a class="home-button" href="/" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
+            </span>
+          <span id="menu-button" class="nav-button">
+            <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
+          </span>
+        </nav>
+        <h1 class="post-title">获取飞机的剖面图</h1>
+        <!-- TODO : Proper class for headline -->
+        <span class="post-meta">
+                <a href="/author/yang-linghui">Yang Linghui</a>
+            | <time datetime="08 1月 2018">08 1月 2018</time>
+        </span>
+        <!-- TODO : Modified check -->
+            <span class="post-meta"> | Updated on 05 1月 2018</span>
+            <div class="post-cover cover" style="background-image: url('/theme/images/post-bg.jpg')">
+      </div>
+    </header>
+
+  <section id="wrapper">
+    <a class="hidden-close"></a>
+
+    <!-- Post content -->
+    <main class="content" role="main">
+        <article class="post">
+        <div class="inner">
+            <section class="post-content">
+                <h1>获取飞机的剖面图</h1>
+<p>陈子坚</p>
+<p>在设计、制作像真飞机模型过程中，必不可少的步骤是获得原型飞机的剖面图特别是机身剖面图，作为设计、制作的重要依据，剖面的准确与否，关系到模型的像真程度，而且往往是“形似”与“形神兼似”的关键差别。</p>
+<p>笔者钟情于像真飞机模型的制作与飞行，根据一些实践的经验，推荐 3
+种常用的获得原型机剖面图的方法，3
+种方法互有优缺，结合使用，基本可以准确完成大部分原型飞机的剖面图获取。由于本文着重关于剖面获取的方法，因此下文涉及的一些软件，只提及用到的命令及操作顺序，详细的软件使用方法就不再叙述。</p>
+<hr>
+<h2>任务目标：准确获取原型飞机的剖面图。</h2>
+<p>首先，要澄清一个模友常常提出的问题，如果手上只有平面三视图，能否准确画出飞机的剖面图？答案是否定的。必须找到比三视图更丰富的资料、素材，才可能完成任务（当然也有例外，如
+Mig15
+机身剖面是简单的正圆形，可以靠三视图量取直径画出）。具体哪些素材，依据所用的方法而定。</p>
+<blockquote>
+<p>方法 <strong>1</strong>：依据带有剖面的现成图纸，描画出飞机的剖面图。</p>
+<p>优点：最直接的办法.</p>
+<p>缺点：常见的飞机的图纸相对好找，但是很多飞机的图纸都难找；</p>
+<p>现成图纸的剖面准确程度参差不齐，不准确的地方不容易发现。</p>
+<p>只能获得图纸所提供的有限个数剖面图。</p>
+<p>例子：F16 机身剖面</p>
+<p>所用素材与软件：带剖面图的 F16 三视图，Autocad。</code></p>
+</blockquote>
+<p>许多常见飞机特别是现代战斗机的三视图与剖面图，都比较容易找到，最著名的如法国网站
+http://richard.ferriere.free.fr/上，包括世界各个国家的大量飞机线图，从莱特兄弟的飞行者一号到喷气战斗机
+Su27，均有收录，其中很多都带有剖面图。下面就举例 F16 的机身剖面图描画。</p>
+<blockquote>
+<p>首先，收集到 F16 的线图（图 1），命名文件名为 F16.jpg。</p>
+</blockquote>
+<p><img alt="fig.1" src="media/e87e79b55e816db50aa31a5201433ff1.jpg"></p>
+<p>图 1 F16 线图</p>
+<p>以 Autocad 绘图软件为例，打开软件，点击下拉菜单“插入”，点选“光栅图像”，找到
+F16.jpg，点击“打开”，插入到绘图界面中（图 2）。</p>
+<p><img alt="fig.2" src="media/dc09954cf1259e2b6bd8584b64031e4b.jpg"></p>
+<p>图 2 以光栅图像插入图片</p>
+<p>用“scale”命令调整图纸为制作所需要的大小，如 1/16 比例（即模型长度
+960mm），然后用 Line、</p>
+<p>Arc、Pline 等命令描画剖面线图（图 3）。</p>
+<p><img alt="fig.3" src="media/9976a36eb9ee2b5f4ae5b50f88262da9.jpg"></p>
+<p>图 3
+描画剖面图如果所画的线显示不出，实际上是叠加到光栅图像之下被遮挡了，可以点击菜单“工具”，点击“绘图顺序”—>“后置”（图
+4），然后点取插入的光栅图像（即 F16.jpg），即可解决。</p>
+<p><img alt="fig.4" src="media/02285715543ec6d283b0cf91d8b463a5.jpg"></p>
+<p>图 4 改变显示顺序</p>
+<p>因为机身是对称的，因此画剖面只需画半边，之后用 Mirror
+命令对称翻转。由于原型线图往往会有差错，因此画的剖面要返回到三视图中校对，以三视图的轮廓为准，调整剖面图（图
+5）。</p>
+<p><img alt="fig.5" src="media/3f5f5ef8652561555adefaca898ac02e.jpg"></p>
+<p>图 5 将剖面与三视图比对修正</p>
+<p>图 6 为按照图纸描画出的 F16
+完整的各个机身剖面图。如果制作模型所需要的剖面（如模型的隔框所在），并不在图纸所提供的剖面中，则要用已有剖面做三维建模，得到整个机身的模型，然后再用下面介绍的方法
+3 取得任意位置的剖面。</p>
+<p><img alt="fig.6" src="media/e4da730f703ec23c23175dcedfbd4eb1.jpg"></p>
+<p>图 6 描画完成的 F16 机身剖面图</p>
+<blockquote>
+<p>方法 <strong>2</strong>：依据实体模型，取得剖面图。</p>
+<p>优点：可根据需要确定剖面位置；机型最齐全。</p>
+<p>缺点：需要购买实体模型，有些进口模型所费不菲； 需要破坏实体模型；例子：J10
+  机身剖面</p>
+<p>所用素材与软件：J10 1/48 拼装模型，记号笔，手锯，砂纸，扫描仪，Autocad。</p>
+</blockquote>
+<p>方法 2就是找到原型机的缩比实体模型，如静态拼装模型，在需要获取剖面的地方剖开，扫描剖开面，然后按方法1描画剖面。由于静态拼装模型的厂牌众多，产品丰富，大部分的飞机都不难找得到。实体模型的选择，首先要外形准确，只有准确的原型才能获得准确的剖面；其次就是比例不要太小，1/48、1/72的比例比较合适；最后当然就是不需要太贵，国产的产品已经足够。最好可以同时购买两套，一套用作解剖扫描，一套保持完整以对比校正体型。</p>
+<p>首先将实体模型拼装好，然后根据设计需要，在机身用记号笔画好剖面位置（图
+7），然后用手锯锯开，锯开面要垂直于机身纵轴（图
+8）。对剖面用砂纸打磨，去掉毛刺处理平滑，然后对剖开面扫描，得到剖面正投影图片（图
+9），然后用方法 1 用 Autocad
+描画剖面图。在描画剖面图的同时，最好将拼装模型附带的三视图也一并插入，调整到与剖面比例一致，作为描画剖面图的参考（图
+10）。还可以把机翼、尾翼的平面一并扫描，进而画出所需的图纸。图 11
+为根据剖开面描画的 J10 各个机身剖面图。</p>
+<p><img alt="fig.7" src="media/7a8ff66e480c85130ff83f4e07bdaf84.jpg"></p>
+<p>图 7 用记号笔在机身上画上剖面位置</p>
+<p><img alt="fig.8" src="media/613deb7d537560822ff0c5b1ec80cc6b.jpg"></p>
+<p>图 8 用手锯锯开</p>
+<p><img alt="fig.9" src="media/2393eff20c9dd4258feda2a61f33cda7.jpg"></p>
+<p>图 9 扫描机身剖开面</p>
+<p><img alt="fig.10" src="media/ab9188616ed30a101ad2dfcaf51a8084.jpg"></p>
+<p>图 10 按方法 1 描画机身剖面图</p>
+<p><img alt="fig.11" src="media/d7082121495fa53a0ff5606ca5b36a14.jpg"></p>
+<p>图 11 描画完成的机身剖面图</p>
+<blockquote>
+<p>方法 <strong>3</strong>：依据三维模型，用 <strong>Sketchup</strong> 软件获得剖面图。</p>
+<p>优点：可以获取任意位置、任意角度的剖面； 自动生成 Dwg、DXF
+  等格式的剖面图，不需要手动描画； 机型资源较多，且在不断增加中。</p>
+<p>缺点：还没发现。</p>
+<p>例子：YF23 剖面</p>
+<p>所需软件：Google Sketchup Pro，Autocad</p>
+</blockquote>
+<p>方法 3
+是笔者总结的最好的一个获取剖面的方法，机型资源十分丰富，获取剖面非常简便，而且可以取得任意位置任何角度的剖面，包括非垂直于坐标轴系的剖面。</p>
+<p>Sketchup
+是一款强调简单易用的草图建模软件，最初是针对建筑设计开发的，经过几年发展，特别是被
+Google 收购后，Sketchup 用户越来越多，早已不止建筑师。Google Sketchup
+十分强调开放性与共享性，用户可以免费下载或者上载各式各样的三维模型到模型库，与别人分享，其中不乏大量的飞行器模型，并在不断陆续增加中，图
+12
+是一些在模型库中的飞机模型，可见机型十分丰富，这些模型为我们获取剖面提供了大量素材。</p>
+<p><img alt="fig.12" src="media/4feba3795359e54d17bceaa9858a0c1c.jpg"></p>
+<p>图 12 Google Sketchup 模型库中的一些飞行器三维模型</p>
+<p>Sketchup Pro 软件带有生成剖面的功能，可以很容易地生成 Dwg、DXF
+等格式的剖面图，而不需要手动描画。</p>
+<blockquote>
+<p>首先，要安装Sketchup软件，软件可以在Google官方网页下载：<em>http://sketchup.google.com/download</em><a href="http://sketchup.google.com/download/">（/</a>
+  图</p>
+</blockquote>
+<p>13）。注意必须下载安装Pro版本，才带有生成剖面的功能。下载安装完成，还可以下载安装汉化包汉化。</p>
+<p><img alt="fig.13" src="media/e16e3c94dad0b54463d96352a75d5c0a.jpg"></p>
+<p>图 13 下载 Google Sketchup Pro 版</p>
+<p>然后，可以在Google的模型库中搜索所要的机型：<em>http://sketchup.google.com/3dwarehouse/</em>。以YF23
+为例，在搜索栏输入“YF 23”，搜索结果中有不少YF23 三维模型（图
+14），选取体型准确，细节丰富的一个，下载到本地。</p>
+<p><img alt="fig.14" src="media/1e0f7e8d848b561a1a4b0e5b358cc2e2.jpg"></p>
+<p>图 14 搜索下载 YF23 三维模型</p>
+<p>为了方便介绍，这里采用了汉化了的 Sketchup 专业版。打开下载的 YF23
+模型，软件界面以及几个将会用到的功能按钮如图
+15。其中，黄框中的按钮需要点击“查看”下拉菜单，在工具栏中将“剖切”
+和“视图”打钩后显示。为方便获取剖面，要将模型的显示从默认的透视图改为轴测图，点击“相机”
+下拉菜单，将“透视显示”改为“平行投影显示”。</p>
+<p><img alt="fig.15" src="media/aaea31005c47f54ed5cf77e53bee8162.jpg"></p>
+<p>图 15 Google Sketchup 软件界面及要用到的命令</p>
+<blockquote>
+<p>获取机身的横剖面，第一步点击“左视图”（或者其它方向），将模型显示为正面立面。</p>
+</blockquote>
+<p>第二步，然后点击“添加剖面”，这时鼠标出现一个随鼠标移动的绿色方框，表示剖切平面（图
+16），鼠标在模型外空白处点击，就生成一个平行于屏幕，也即垂直于机身纵轴的剖切平面。注意若鼠标点击在模型上，则剖切平面会变成模型上该点的相切面。</p>
+<p><img alt="fig.16" src="media/aef46ae15faebfc3ba2e722316a8fb17.jpg"></p>
+<p>图 16
+添加剖面第三步，点击“等角透视”按钮，显示为等角轴测图，点击“移动/复制”按钮，然后点选剖切平面，移动鼠标可以拖动剖切平面沿纵轴移动，将剖切平面移动到机头头锥顶点，作为剖面原点，该剖面编号
+F0（图 17）。点击“文件”下拉菜单，点选“导出”—>“二维剖切”（图
+18），导出文件格式选 Dwg，命名为“F0.dwg”，点击“导出”，完成导出第一个机身剖面
+F0。</p>
+<p><img alt="fig.17" src="media/b4ff62298ba8ea59576092976ed875fa.jpg"></p>
+<p>图 17 将剖面移动到机身顶点</p>
+<p><img alt="fig.18" src="media/57c3d20622832a86f92db5f0d135f5a1.jpg"></p>
+<p>图 18 导出 DWG
+剖面图第四步，点击“移动/复制”按钮，点选剖切平面，向机尾方向移动，然后用键盘输入移动距离，例如“1500”，代表移动
+1500mm（图 19），移动剖切平面后，再次导出此处的机身剖面“F1”。</p>
+<p><img alt="fig.19" src="media/08380ae0bf8212ba2ba0ecc28f4d22e4.jpg"></p>
+<p>图 19 移动剖面位置,导出第二个剖面图</p>
+<blockquote>
+<p>重复第四步，按间距 1500 移动、导出剖面，得到一系列沿机身纵轴的间距 1500
+  的剖面</p>
+</blockquote>
+<p>F0.dwg,F1.dwg……F10.dwg（图 20），就完成了机身横剖面的导出。</p>
+<p><img alt="fig.20" src="media/b86645a053131f559a0978b603771816.jpg"></p>
+<p>图 20 继续完成剖面图导出</p>
+<p>也可以按此方法，导出机身的纵剖面（图 21）。图 22 显示的是经过组合在一起的 YF23
+纵横剖面 Dwg 文件。</p>
+<p><img alt="fig.21" src="media/d35f816feb745f080a6130a7f135d02c.jpg"></p>
+<p>图 21 同样方法可以导出机身纵剖面图</p>
+<p><img alt="fig.22" src="media/89e03ed4dc79f9515534e4740bce976c.jpg"></p>
+<p>图 22 完成导出的 YF23
+机身纵横剖面图通过以上介绍的三种获取机身剖面图的方法，获得机身的各个剖面以后，为了验证剖面的准确性，建议用所得剖面进行三维建模，生成三维模型直观地校验体型的准确性，可以避免以不准确的剖面作依据而制作有偏差的模型。图
+23 就是用 F16 机身剖面图建模生成的三维模型，可见剖面、体型是基本准确的。</p>
+<p><img alt="fig.23" src="media/ddfce61e61b2355a25fe3f73b6922f80.jpg"></p>
+<p>图 23 用剖面图返回建模的 F16 机身</p>
+<blockquote>
+<p>图 24 与图 25 是笔者依据上述方法取得的剖面图，所设计制作的 F16 与 Mig15
+  模型。</p>
+</blockquote>
+<p><img alt="fig.24" src="media/44854b2242982941a96e10a00f9ab382.jpg"></p>
+<p>图 24 笔者制作的 F16 模型</p>
+<p><img alt="fig.25" src="media/dc19b88714ccdda9245f44cb99bf6157.jpg"></p>
+<p>图 25 笔者制作的 Mig15 模型</p>
+<p>除了以上三种方法，还有不少取得飞机剖面图的巧妙途径，模友在制作的实践中也会有多种多样的解决方案，笔者总结的粗陋方法权当抛砖引玉，希望广大的模友交流补充。</p>
+            </section>
+
+            <section class="post-info">
+                <div class="post-share">
+                    <a class="twitter" href="https://twitter.com/share?text=获取飞机的剖面图&amp;url=/2018/01/model.html" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                    <i class="ic ic-twitter"></i><span class="hidden">Twitter</span>
+                    </a>
+                    <a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=/2018/01/model.html" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+                    <i class="ic ic-facebook"></i><span class="hidden">Facebook</span>
+                    </a>
+                    <a class="googleplus" href="https://plus.google.com/share?url=/2018/01/model.html" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+                    <i class="ic ic-googleplus"></i><span class="hidden">Google+</span>
+                    </a>
+                    <div class="clear"></div>
+                </div>
+
+                <aside class="post-tags">
+<a href="/tag/model">model</a><a href="/tag/simulation">simulation</a>                </aside>
+
+                <div class="clear"></div>
+
+
+                </section>
+    <!-- 添加coding-comment评论控件 -->
+    <div id="container"></div>
+    <script type="text/javascript" src="//dn-coding-net-public-file.qbox.me/Coding-Comments/v0.1.0/gitment.min.js"></script>
+    <script>
+        var gitment = new Gitment({
+        owner: 'icelinker',
+        repo: 'cv_blog_comment',
+        oauth: {
+            client_id: '3756f64addea5e61b5f50a6180fedc70',
+            client_secret: 'c545c80c6864a4e81cfdd138f80793368c3c9334',
+        },
+        })
+        document.getElementById('container').appendChild(gitment.render())
+    </script>
+    <!-- 添加coding-comment评论控件 -->
+
+
+
+                <aside class="post-nav">
+                    <a class="post-nav-next" href="/2018/01/coding comment.html">
+                        <section class="post-nav-teaser">
+                            <i class="ic ic-arrow-left"></i>
+                                <h2 class="post-nav-title">使用coding comment 作为评论系统</h2>
+                            <p class="post-nav-excerpt">使用coding comment 作为评论系统</p>
+                        </section>
+                    </a>
+                    <a class="post-nav-prev" href="/2018/01/onedrive.html">
+                        <section class="post-nav-teaser">
+                            <i class="ic ic-arrow-right"></i>
+                                <h2 class="post-nav-title">oneDrive同步多个不同路径的文件</h2>
+                            <p class="post-nav-excerpt">oneDrive同步多个不同路径的文件</p>
+                        </section>
+                    </a>
+                    <div class="clear"></div>
+                </aside>
+
+            </div>
+        </article>
+    </main>
+      <!-- TODO : Body class -->
+    <div id="body-class" style="display: none;" class=""></div>
+
+    <footer id="footer">
+      <div class="inner">
+        <section class="credits">
+
+
+          <span class="credits-theme">Theme <a href="https://github.com/arulrajnet/attila" rel="nofollow">Attila</a></span>
+          <span class="credits-software">Published with <a href="https://github.com/getpelican/pelican" rel="nofollow">Pelican</a></span>
+        </section>
+      </div>
+    </footer>
+  </section>
+
+  <script type="text/javascript" src="/theme/js/script.js"></script>
+
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3546274-12']);
+    _gaq.push(['_trackPageview']);
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+</body>
+</html>

@@ -5,21 +5,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/</loc>
-<lastmod>2018-01-08T14:17:25-00:00</lastmod>
+<lastmod>2018-01-10T16:59:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/archives.html</loc>
-<lastmod>2018-01-08T14:17:25-00:00</lastmod>
+<lastmod>2018-01-10T16:59:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>/tags.html</loc>
-<lastmod>2018-01-08T14:17:25-00:00</lastmod>
+<lastmod>2018-01-10T16:59:45-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,6 +46,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/2018/01/model.html</loc>
+<lastmod>2018-01-05T19:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/2018/01/onedrive.html</loc>
+<lastmod>2018-01-05T19:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/2018/01/sensor size.html</loc>
+<lastmod>2018-01-05T19:30:00+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/2018/01/SimcirJs.html</loc>
 <lastmod>2018-01-05T19:30:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -60,7 +81,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>/category/3d</loc>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/category/chuan-gan-qi</loc>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>/category/python</loc>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/category/win</loc>
 <lastmod>2018-01-08T10:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -75,6 +117,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>/tag/publishing</loc>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/model</loc>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/simulation</loc>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/pc</loc>
+<lastmod>2018-01-08T10:20:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>/tag/sensor</loc>
 <lastmod>2018-01-08T10:20:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
